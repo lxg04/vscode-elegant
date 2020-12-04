@@ -1,65 +1,25 @@
-# ele README
+# About the Author
 
-This is the README for your extension "ele". After writing up a brief description, we recommend including the following sections.
+Author: Xingguang Liu
+Institute: Institute of High Energy Physics
+Contact: liuxg@ihep.ac.cn
+
+## Introduction
+Elegant is a widely used simulation code in charged particle accelerator field
+This is a personal project which highlight some keywords for better editing with vscode
+
+More about elegant (and others): https://www.aps.anl.gov/Accelerator-Operations-Physics/Software
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+Automatically highlight the following:
+* Functions
+* Function attributes
+* Numbers
 
-For example if there is an image subfolder under your extension project workspace:
+## Github repository
+https://github.com/lxg04/vscode-elegant
+where you can also see how the grammar highlighting has been done
 
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Reference
+Elegant manual https://ops.aps.anl.gov/manuals/elegant_latest/elegant.html

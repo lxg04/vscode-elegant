@@ -1,5 +1,6 @@
 {
     "name": "ele",
+    "publisher":"Xingguang",
     "displayName": "elegant script support",
     "description": "Syntax highlighting for particle tracking code elegant",
     "version": "0.0.1",
