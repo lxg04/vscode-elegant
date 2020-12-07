@@ -3,7 +3,7 @@
     "publisher":"xingguang-liu",
     "displayName": "elegant script support",
     "description": "Syntax highlighting for particle tracking code elegant",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icon":"images/ele_small.png",
     "homepage": "https://github.com/lxg04/vscode-elegant/README.md",
     "bugs": {
