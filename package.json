@@ -4,6 +4,16 @@
     "displayName": "elegant script support",
     "description": "Syntax highlighting for particle tracking code elegant",
     "version": "0.0.1",
+    "icon":"images/ele_small.png",
+    "homepage": "https://github.com/lxg04/vscode-elegant/README.md",
+    "bugs": {
+    "url": "https://github.com/lxg04/vscode-elegant/issues",
+    "email": "liuxg@ihep.ac.cn"
+            },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lxg04/vscode-elegant"
+        },
     "engines": {
         "vscode": "^1.51.0"
     },
